@@ -1,0 +1,10 @@
+[package]
+
+name = "float_macros"
+version = "0.0.1"
+authors = ["Tal Levy <JubBoy333@gmail.com>"]
+
+[lib]
+name = "float_macros"
+plugin = true
+
